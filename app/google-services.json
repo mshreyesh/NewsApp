@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961283710950",
+    "firebase_url": "https://newsapp-23506.firebaseio.com",
+    "project_id": "newsapp-23506",
+    "storage_bucket": "newsapp-23506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961283710950:android:753046fc03795c22a78027",
+        "android_client_info": {
+          "package_name": "com.soulbuster.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961283710950-c5sohvoknskr2cahdmr0drrvdurdlpov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0hWsZb_cG5hHrxbqP1Jc4mipWJa5EM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961283710950-c5sohvoknskr2cahdmr0drrvdurdlpov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
